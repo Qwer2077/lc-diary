@@ -27,6 +27,13 @@ https://leetcode-cn.com/problems/maximize-sum-of-array-after-k-negations/
 输入：nums = [2,-3,-1,5,-4], k = 2
 输出：13
 解释：选择下标 (1, 4) ，nums 变为 [2,3,-1,5,4] 。
+ 
+
+提示：
+
+1 <= nums.length <= 104
+-100 <= nums[i] <= 100
+1 <= k <= 104
 ```
 
 ## 思路
