@@ -25,6 +25,12 @@ magazine 中的每个字符只能在 ransomNote 中使用一次。
 
 输入：ransomNote = "aa", magazine = "aab"
 输出：true
+ 
+
+提示：
+
+1 <= ransomNote.length, magazine.length <= 105
+ransomNote 和 magazine 由小写英文字母组成
 ```
 
 ## 思路
