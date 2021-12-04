@@ -1,4 +1,4 @@
-## 83. 赎金信
+## 383. 赎金信
 https://leetcode-cn.com/problems/ransom-note/
 
 ## 题目描述
