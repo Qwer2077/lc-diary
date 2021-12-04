@@ -9,4 +9,4 @@
 我的力扣刷题日记，记录自己的思路
 
 ## LeetCode 题目
-- [383. 赎金信](./problems/README.md)
+- [383. 赎金信](./problems/383_Ransom_Note/README.md)
